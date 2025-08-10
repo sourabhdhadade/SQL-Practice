@@ -6,7 +6,7 @@ It includes examples of database creation, table constraints, joins, subqueries,
 ---
 
 ## 📂 Contents
-- **Practice** — Salesmen, Customers, Orders example with subqueries.
+- **Practice 5** — Salesmen, Customers, Orders example with subqueries.
 - **College Database Example** — Students, Departments, Teachers with foreign keys and joins.
 - **Managers Table** — Self join examples for employee-manager relationships.
 - **Joins & Unions** — Left Join, Right Join, Full Outer Join equivalent.
@@ -51,4 +51,4 @@ They are not optimized for production use, but they’re perfect for understandi
 ---
 
 ## 📜 License
-This project is licensed under the MIT License — feel free to use, modify, and share.
+This repository is licensed under the MIT License — feel free to use, modify, and share.
