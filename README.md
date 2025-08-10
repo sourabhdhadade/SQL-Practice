@@ -6,7 +6,7 @@ It includes examples of database creation, table constraints, joins, subqueries,
 ---
 
 ## 📂 Contents
-- **Practice Questions Paper 8** — Salesmen, Customers, Orders example with subqueries.
+- **Practice** — Salesmen, Customers, Orders example with subqueries.
 - **College Database Example** — Students, Departments, Teachers with foreign keys and joins.
 - **Managers Table** — Self join examples for employee-manager relationships.
 - **Joins & Unions** — Left Join, Right Join, Full Outer Join equivalent.
